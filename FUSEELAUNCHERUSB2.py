@@ -8,7 +8,7 @@ import pathlib
 
 payload = 'payload.bin'
 
-#How to launch ? --> https://github.com/Qyriad/fusee-launcher/wiki/Instructions-(Windows)
+#How to launch ? --> https://github.com/alexdieu/fuseegeleeUSB2.0
 
 def makeProgress(V):
     PROGRESSBAR['value'] = PROGRESSBAR['value'] + V
@@ -40,7 +40,7 @@ def getCheckboxValue():
 
 def btnClickFunction():
     getCheckboxValue()
-    webbrowser.open('http://example.com')
+    webbrowser.open('https://github.com/alexdieu/fuseegeleeUSB2.0/blob/master/LICENSE')
 
 
 def launch():
