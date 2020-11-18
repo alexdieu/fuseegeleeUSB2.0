@@ -1,7 +1,7 @@
 # fuseegeleeUSB2.0
 This is a launcher for fusee gelee usb 2.0 , can only be launched in ROOT MODE ! Tested on Kernel, Debian(kali include) and Ubuntu, working perfectely !
 
-This code literally patch your memory to emulate usb 2.0 , next it launch your payload
+This code literally patch your memory to emulate usb 3.0 , next it launch your payload
 How to install : You need Python3 , libusk
 
 credits : 
